@@ -8,6 +8,16 @@ This project focuses on analyzing call center data and transforming it into an i
 
 The dashboard helps users explore call center performance through interactive visuals and key performance indicators.
 
+## 📸 Dashboard Preview
+
+### 🏠 Dashboard
+![Call Center Dashboard](Screenshot%202026-08-13%20011232.png)
+
+### 📊 Dashboard Overview
+![Dashboard Overview](Screenshot%202026-08-13%20011240.png)
+
+### 💡 Insights & Recommendations
+![Insights](Screenshot%202026-08-13%20011245.png)
 ## 🛠️ Tools & Technologies
 
 * **Microsoft Power BI**
